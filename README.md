@@ -1,6 +1,5 @@
 mandelbrot set OMP - MPI - GPU
 
-MACOS ARM  <br />
 cmake . <br />
 make <br />
 ./bin/fraktal <br />
